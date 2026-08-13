@@ -1,0 +1,2558 @@
+arenas:
+  C-SW-Icetown:
+    credits: TheLaoring
+    enabled: false
+    spawns:
+    - x: 0.5
+      y: 54
+      yaw: 360
+      z: -54.5
+    - x: -16.5
+      y: 54
+      yaw: 270
+      z: -40.5
+    - x: -40.5
+      y: 54
+      yaw: 360
+      z: -16.5
+    - x: -54.5
+      y: 54
+      yaw: 270
+      z: 0.5
+    - x: -40.5
+      y: 54
+      yaw: 180
+      z: 17.5
+    - x: -16.5
+      y: 54
+      yaw: 270
+      z: 41.5
+    - x: 0.5
+      y: 54
+      yaw: 180
+      z: 55.5
+    - x: 17.5
+      y: 54
+      yaw: 90
+      z: 41.5
+    - x: 41.5
+      y: 54
+      yaw: 180
+      z: 17.5
+    - x: 55.5
+      y: 54
+      yaw: 90
+      z: 0.5
+    - x: 41.5
+      y: 54
+      yaw: 0
+      z: -16.5
+    - x: 17.5
+      y: 54
+      yaw: 90
+      z: -40.5
+    tag: winter
+  H-SW-Mines:
+    credits: Prop11th
+    enabled: false
+    spawns:
+    - x: -51.5
+      y: 65
+      yaw: 270
+      z: 0.5
+    - x: -37.5
+      y: 65
+      yaw: 180
+      z: 14.5
+    - x: -13.5
+      y: 65
+      yaw: 270
+      z: 38.5
+    - x: 0.5
+      y: 65
+      yaw: 180
+      z: 52.5
+    - x: 14.5
+      y: 65
+      yaw: 90
+      z: 38.5
+    - x: 38.5
+      y: 65
+      yaw: 180
+      z: 14.5
+    - x: 52.5
+      y: 65
+      yaw: 90
+      z: 0.5
+    - x: 38.5
+      y: 65
+      yaw: 360
+      z: -13.5
+    - x: 14.5
+      y: 65
+      yaw: 90
+      z: -37.5
+    - x: 0.5
+      y: 65
+      yaw: 360
+      z: -51.5
+    - x: -13.5
+      y: 65
+      yaw: 270
+      z: -37.5
+    - x: -37.5
+      y: 65
+      yaw: 360
+      z: -13.5
+    tag: halloween
+  H-SW-Petals:
+    credits: TheLaoring
+    enabled: false
+    spawns:
+    - x: 20.5
+      y: 66
+      yaw: 90
+      z: 48.5
+    - x: 48.5
+      y: 66
+      yaw: 180
+      z: 20.5
+    - x: 64.5
+      y: 66
+      yaw: 90
+      z: -0.5
+    - x: 48.5
+      y: 66
+      yaw: 0
+      z: -19.5
+    - x: 20.5
+      y: 66
+      yaw: 90
+      z: -47.5
+    - x: -0.5
+      y: 66
+      yaw: 360
+      z: -63.5
+    - x: -19.5
+      y: 66
+      yaw: 270
+      z: -47.5
+    - x: -47.5
+      y: 66
+      yaw: 0
+      z: -19.5
+    - x: -63.5
+      y: 66
+      yaw: 270
+      z: 1.5
+    - x: -47.5
+      y: 66
+      yaw: 180
+      z: 20.5
+    - x: -19.5
+      y: 66
+      yaw: 270
+      z: 48.5
+    - x: 1.5
+      y: 66
+      yaw: 180
+      z: 64.5
+    tag: halloween
+  H-SW-Western:
+    credits: Ben25536 Miller & Torikish
+    enabled: false
+    spawns:
+    - x: -57.5
+      y: 97
+      yaw: 270
+      z: 31.5
+    - x: -49.5
+      y: 97
+      yaw: 225
+      z: 50.5
+    - x: -30.5
+      y: 97
+      yaw: 180
+      z: 58.5
+    - x: 31.5
+      y: 97
+      yaw: 180
+      z: 58.5
+    - x: 50.5
+      y: 97
+      yaw: 135
+      z: 50.5
+    - x: 58.5
+      y: 97
+      yaw: 90
+      z: 31.5
+    - x: 58.5
+      y: 97
+      yaw: 90
+      z: -30.5
+    - x: 50.5
+      y: 97
+      yaw: 45
+      z: -49.5
+    - x: 31.5
+      y: 97
+      yaw: 0
+      z: -57.5
+    - x: -30.5
+      y: 97
+      yaw: 0
+      z: -57.5
+    - x: -49.5
+      y: 97
+      yaw: 315
+      z: -49.5
+    - x: -57.5
+      y: 97
+      yaw: 270
+      z: -30.5
+    tag: halloween
+  S-SW-Summer:
+    credits: Prop11th
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 51.5
+      y: 81
+      yaw: 90
+      z: -9.5
+    - x: 29.5
+      y: 81
+      yaw: 360
+      z: -28.5
+    - x: 9.5
+      y: 81
+      yaw: 0
+      z: -28.5
+    - x: -8.5
+      y: 81
+      yaw: 0
+      z: -28.5
+    - x: -28.5
+      y: 81
+      yaw: 360
+      z: -28.5
+    - x: -50.5
+      y: 81
+      yaw: 270
+      z: -9.5
+    - x: -50.5
+      y: 81
+      yaw: 270
+      z: 10.5
+    - x: -28.5
+      y: 81
+      yaw: 180
+      z: 29.5
+    - x: -8.5
+      y: 81
+      yaw: 180
+      z: 29.5
+    - x: 9.5
+      y: 81
+      yaw: 180
+      z: 29.5
+    - x: 29.5
+      y: 81
+      yaw: 180
+      z: 29.5
+    - x: 51.5
+      y: 81
+      yaw: 90
+      z: 10.5
+    tag: summer
+  SW-Acid:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      0:
+        x: -34.5
+        y: 97.5
+        yaw: 0
+        z: -63.5
+      1:
+        x: 0.5
+        y: 97.5
+        yaw: 0
+        z: -67
+      2:
+        x: 36.5
+        y: 97.5
+        yaw: 0
+        z: -63
+      3:
+        x: 65.5
+        y: 97.5
+        yaw: 90
+        z: -33.5
+      4:
+        x: 67.5
+        y: 97.5
+        yaw: 90
+        z: 1.5
+      5:
+        x: 64.5
+        y: 97.5
+        yaw: 90
+        z: 36.5
+      6:
+        x: 35.5
+        y: 97.5
+        yaw: 180
+        z: 64.5
+      7:
+        x: 1.5
+        y: 97.5
+        yaw: 180
+        z: 68.5
+      8:
+        x: -35
+        y: 97.5
+        yaw: 180
+        z: 64.5
+      9:
+        x: -65
+        y: 97.5
+        yaw: 270
+        z: 35.5
+      10:
+        x: -67.5
+        y: 97.5
+        yaw: 270
+        z: 0.5
+      11:
+        x: -62.5
+        y: 97.5
+        yaw: 270
+        z: -34.5
+  SW-Aether:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: -56.5
+      y: 67
+      yaw: 180
+      z: 22.5
+    - x: -78.5
+      y: 67
+      yaw: 270
+      z: 0.5
+    - x: -56.5
+      y: 67
+      yaw: 0
+      z: -21.5
+    - x: -21.5
+      y: 67
+      yaw: 270
+      z: -56.5
+    - x: 0.5
+      y: 67
+      yaw: 360
+      z: -78.5
+    - x: 22.5
+      y: 67
+      yaw: 90
+      z: -56.5
+    - x: 57.5
+      y: 67
+      yaw: 360
+      z: -21.5
+    - x: 79.5
+      y: 67
+      yaw: 90
+      z: 0.5
+    - x: 57.5
+      y: 67
+      yaw: 180
+      z: 22.5
+    - x: 22.5
+      y: 67
+      yaw: 90
+      z: 57.5
+    - x: 0.5
+      y: 67
+      yaw: 180
+      z: 79.5
+    - x: -21.5
+      y: 67
+      yaw: 270
+      z: 57.5
+  SW-Aquatis:
+    credits: Squ1shy1039
+    enabled: true
+    spawns:
+    - x: 50.5
+      y: 61
+      yaw: 360
+      z: -20.5
+    - x: 72.5
+      y: 61
+      yaw: 90
+      z: 0.5
+    - x: 50.5
+      y: 61
+      yaw: 0
+      z: 21.5
+    - x: 21.5
+      y: 61
+      yaw: 270
+      z: 50.5
+    - x: 0.5
+      y: 61
+      yaw: 0
+      z: 71.5
+    - x: -20.5
+      y: 61
+      yaw: 90
+      z: 50.5
+    - x: -49.5
+      y: 61
+      yaw: 0
+      z: 21.5
+    - x: -70.5
+      y: 61
+      yaw: 90
+      z: 0.5
+    - x: -49.5
+      y: 61
+      yaw: 180
+      z: -20.5
+    - x: -20.5
+      y: 61
+      yaw: 90
+      z: -49.5
+    - x: 0.5
+      y: 61
+      yaw: 180
+      z: -70.5
+    - x: 21.5
+      y: 61
+      yaw: 270
+      z: -49.5
+  SW-Azure:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      0:
+        x: 41.5
+        y: 109
+        yaw: 90
+        z: -18.5
+      1:
+        x: 44.5
+        y: 109
+        yaw: 90
+        z: 3.5
+      2:
+        x: 47.5
+        y: 109
+        yaw: 90
+        z: 25.5
+      3:
+        x: 19.5
+        y: 109
+        yaw: 180
+        z: 41.5
+      4:
+        x: -2.5
+        y: 109
+        yaw: 180
+        z: 45
+      5:
+        x: -24.5
+        y: 109
+        yaw: 180
+        z: 47.5
+      6:
+        x: -40.5
+        y: 109
+        yaw: 270
+        z: 19.5
+      7:
+        x: -43.5
+        y: 109
+        yaw: 270
+        z: -2.5
+      8:
+        x: -46.5
+        y: 109
+        yaw: 180
+        z: -24.5
+      9:
+        x: -18.5
+        y: 109
+        yaw: 360
+        z: -40.5
+      10:
+        x: 3.5
+        y: 109
+        yaw: 0
+        z: -43.5
+      11:
+        x: 25.5
+        y: 109
+        yaw: 0
+        z: -46.5
+    tag: new
+  SW-Biophilic:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 19.5
+      y: 66
+      yaw: 90
+      z: 58.5
+    - x: -3.5
+      y: 66
+      yaw: 180
+      z: 73.5
+    - x: -18.5
+      y: 66
+      yaw: 270
+      z: 50.5
+    - x: -57.5
+      y: 66
+      yaw: 180
+      z: 19.5
+    - x: -72.5
+      y: 66
+      yaw: 270
+      z: -3.5
+    - x: -49.5
+      y: 66
+      yaw: 360
+      z: -18.5
+    - x: -18.5
+      y: 66
+      yaw: 270
+      z: -57.5
+    - x: 4.5
+      y: 66
+      yaw: 0
+      z: -72.5
+    - x: 19.5
+      y: 66
+      yaw: 90
+      z: -49.5
+    - x: 58.5
+      y: 66
+      yaw: 360
+      z: -18.5
+    - x: 73.5
+      y: 66
+      yaw: 90
+      z: 4.5
+    - x: 50.5
+      y: 66
+      yaw: 180
+      z: 19.5
+  SW-Blizzard:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: -22.5
+      y: 63
+      yaw: 180
+      z: -51.5
+    - x: 0.5
+      y: 63
+      yaw: 180
+      z: -74.5
+    - x: 23.5
+      y: 63
+      yaw: 315
+      z: -51.5
+    - x: 52.5
+      y: 63
+      yaw: 270
+      z: -22.5
+    - x: 75.5
+      y: 63
+      yaw: 315
+      z: 0.5
+    - x: 52.5
+      y: 63
+      yaw: 45
+      z: 23.5
+    - x: 23.5
+      y: 63
+      yaw: 360
+      z: 52.5
+    - x: 0.5
+      y: 63
+      yaw: 360
+      z: 75.5
+    - x: -22.5
+      y: 63
+      yaw: 135
+      z: 52.5
+    - x: -51.5
+      y: 63
+      yaw: 90
+      z: 23.5
+    - x: -74.5
+      y: 63
+      yaw: 135
+      z: 0.5
+    - x: -51.5
+      y: 63
+      yaw: 225
+      z: -22.5
+  SW-Bonsai:
+    credits: SrySkill
+    enabled: true
+    spawns:
+    - x: -51.5
+      y: 86.5
+      yaw: 180
+      z: 19.5
+    - x: -71.5
+      y: 86.5
+      yaw: 270
+      z: 1.5
+    - x: -53.5
+      y: 86.5
+      yaw: 360
+      z: -18.5
+    - x: -18.5
+      y: 86.5
+      yaw: 270
+      z: -51.5
+    - x: -0.5
+      y: 86.5
+      yaw: 360
+      z: -71.5
+    - x: 19.5
+      y: 86.5
+      yaw: 90
+      z: -53.5
+    - x: 52.5
+      y: 86.5
+      yaw: 0
+      z: -18.5
+    - x: 72.5
+      y: 86.5
+      yaw: 90
+      z: -0.5
+    - x: 54.5
+      y: 86.5
+      yaw: 180
+      z: 19.5
+    - x: 19.5
+      y: 86.5
+      yaw: 90
+      z: 52.5
+    - x: 1.5
+      y: 86.5
+      yaw: 180
+      z: 72.5
+    - x: -18.5
+      y: 86.5
+      yaw: 270
+      z: 54.5
+  SW-Cliffs:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: -34.5
+      y: 59
+      yaw: 180
+      z: 16.5
+    - x: -53
+      y: 59
+      yaw: 270
+      z: 0.5
+    - x: -34.5
+      y: 59
+      yaw: 360
+      z: -16
+    - x: -15
+      y: 59
+      yaw: 270
+      z: -34.5
+    - x: 0.5
+      y: 59
+      yaw: 360
+      z: -53
+    - x: 16.5
+      y: 59
+      yaw: 90
+      z: -35.5
+    - x: 35.5
+      y: 58.5
+      yaw: 0
+      z: -15
+    - x: 53.5
+      y: 58.5
+      yaw: 90
+      z: 0.5
+    - x: 36.5
+      y: 58.5
+      yaw: 180
+      z: 16.5
+    - x: 17.5
+      y: 58.5
+      yaw: 90
+      z: 36.5
+    - x: 0.5
+      y: 58.5
+      yaw: 180
+      z: 53.5
+    - x: -16
+      y: 58.5
+      yaw: 270
+      z: 35.5
+  SW-Clockwork:
+    credits: Squ1shy1039
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 23.5
+      y: 64
+      yaw: 270
+      z: 60.5
+    - x: 0.5
+      y: 64
+      yaw: 180
+      z: 83.5
+    - x: -22.5
+      y: 64
+      yaw: 90
+      z: 60.5
+    - x: -59.5
+      y: 64
+      yaw: 180
+      z: 23.5
+    - x: -82.5
+      y: 64
+      yaw: 135
+      z: 0.5
+    - x: -59.5
+      y: 64
+      yaw: 225
+      z: -22.5
+    - x: -22.5
+      y: 64
+      yaw: 225
+      z: -59.5
+    - x: 0.5
+      y: 64
+      yaw: 225
+      z: -82
+    - x: 23.5
+      y: 64
+      yaw: 315
+      z: -59.5
+    - x: 60.5
+      y: 64
+      yaw: 315
+      z: -22.5
+    - x: 83.5
+      y: 64
+      yaw: 315
+      z: 0.5
+    - x: 60.5
+      y: 64
+      yaw: 45
+      z: 23.5
+  SW-Columns:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 19.5
+      y: 63
+      yaw: 90
+      z: 37.5
+    - x: 0.5
+      y: 63
+      yaw: 180
+      z: 56.5
+    - x: -18.5
+      y: 63
+      yaw: 270
+      z: 37.5
+    - x: -36.5
+      y: 63
+      yaw: 180
+      z: 19.5
+    - x: -55.5
+      y: 63
+      yaw: 270
+      z: 0.5
+    - x: -36.5
+      y: 63
+      yaw: 0
+      z: -18.5
+    - x: -18.5
+      y: 63.5
+      yaw: 270
+      z: -36.5
+    - x: 0.5
+      y: 63.5
+      yaw: 0
+      z: -55.5
+    - x: 19.5
+      y: 63.5
+      yaw: 90
+      z: -36.5
+    - x: 37.5
+      y: 63.5
+      yaw: 360
+      z: -18.5
+    - x: 56.5
+      y: 63.5
+      yaw: 90
+      z: 0.5
+    - x: 37.5
+      y: 63.5
+      yaw: 180
+      z: 19.5
+  SW-Construction:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 26.5
+      y: 62
+      yaw: 180
+      z: 41.5
+    - x: 0.5
+      y: 62
+      yaw: 180
+      z: 43.5
+    - x: -23.5
+      y: 62
+      yaw: 180
+      z: 43.5
+    - x: -40.5
+      y: 62
+      yaw: 270
+      z: 26.5
+    - x: -42.5
+      y: 62
+      yaw: 270
+      z: 0.5
+    - x: -42.5
+      y: 62
+      yaw: 270
+      z: -23.5
+    - x: -25.5
+      y: 62
+      yaw: 360
+      z: -40.5
+    - x: 0.5
+      y: 62
+      yaw: 360
+      z: -42.5
+    - x: 24.5
+      y: 62
+      yaw: 0
+      z: -42.5
+    - x: 41.5
+      y: 62
+      yaw: 90
+      z: -25.5
+    - x: 43.5
+      y: 62
+      yaw: 90
+      z: 0.5
+    - x: 43.5
+      y: 62
+      yaw: 90
+      z: 24.5
+  SW-Decked:
+    credits: Prop11th
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: -41.5
+      y: 69
+      yaw: 225
+      z: 42.5
+    - x: -16.5
+      y: 69
+      yaw: 180
+      z: 55.5
+    - x: 17.5
+      y: 69
+      yaw: 135
+      z: 55.5
+    - x: 42.5
+      y: 69
+      yaw: 135
+      z: 42.5
+    - x: 55.5
+      y: 69
+      yaw: 135
+      z: 17.5
+    - x: 55.5
+      y: 69
+      yaw: 45
+      z: -16.5
+    - x: 42.5
+      y: 69
+      yaw: 45
+      z: -41.5
+    - x: 17.5
+      y: 69
+      yaw: 0
+      z: -54.5
+    - x: -16.5
+      y: 69
+      yaw: 315
+      z: -54.5
+    - x: -41.5
+      y: 69
+      yaw: 315
+      z: -41.5
+    - x: -54.5
+      y: 69
+      yaw: 315
+      z: -16.5
+    - x: -54.5
+      y: 69
+      yaw: 270
+      z: 17.5
+  SW-District:
+    credits: SrySkill
+    enabled: true
+    spawns:
+      0:
+        x: -13.5
+        y: 96.5
+        yaw: 315
+        z: -34.5
+      1:
+        x: 1.5
+        y: 96.5
+        yaw: 360
+        z: -47.5
+      2:
+        x: 14.5
+        y: 96.5
+        yaw: 90
+        z: -32.5
+      3:
+        x: 35.5
+        y: 96.5
+        yaw: 360
+        z: -13.5
+      4:
+        x: 48.5
+        y: 96.5
+        yaw: 90
+        z: 1.5
+      5:
+        x: 33.5
+        y: 96.5
+        yaw: 180
+        z: 15.5
+      6:
+        x: 14.5
+        y: 96.5
+        yaw: 90
+        z: 35.5
+      7:
+        x: -0.5
+        y: 96.5
+        yaw: 180
+        z: 48.5
+      8:
+        x: -13.5
+        y: 96.5
+        yaw: 270
+        z: 33.5
+      9:
+        x: -34.5
+        y: 96.5
+        yaw: 180
+        z: 14.5
+      10:
+        x: -47.5
+        y: 96.5
+        yaw: 270
+        z: -0.5
+      11:
+        x: -32.5
+        y: 96.5
+        yaw: 360
+        z: -13.5
+  SW-Doughnut:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 61.5
+      y: 72
+      yaw: 90
+      z: -37.5
+    - x: 69.5
+      y: 72
+      yaw: 90
+      z: -1.5
+    - x: 61.5
+      y: 72
+      yaw: 90
+      z: 34.5
+    - x: 35.5
+      y: 72
+      yaw: 180
+      z: 58.5
+    - x: -0.5
+      y: 72
+      yaw: 180
+      z: 66.5
+    - x: -36.5
+      y: 72
+      yaw: 180
+      z: 58.5
+    - x: -60.5
+      y: 72
+      yaw: 270
+      z: 32.5
+    - x: -68.5
+      y: 72
+      yaw: 270
+      z: -3.5
+    - x: -60.5
+      y: 72
+      yaw: 270
+      z: -39.5
+    - x: -34.5
+      y: 72
+      yaw: 0
+      z: -63.5
+    - x: 1.5
+      y: 72
+      yaw: 0
+      z: -71.5
+    - x: 37.5
+      y: 72
+      yaw: 0
+      z: -63.5
+  SW-Farmhouse:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 2.5
+      y: 53
+      yaw: 180
+      z: 65.5
+    - x: 19.5
+      y: 53
+      yaw: 90
+      z: 43.5
+    - x: -19.5
+      y: 53
+      yaw: 270
+      z: 47.5
+    - x: -44.5
+      y: 53
+      yaw: 180
+      z: 19.5
+    - x: -66.5
+      y: 53
+      yaw: 270
+      z: 2.5
+    - x: -48.5
+      y: 53
+      yaw: 0
+      z: -19.5
+    - x: -18.5
+      y: 53
+      yaw: 270
+      z: -43.5
+    - x: -1.5
+      y: 53
+      yaw: 0
+      z: -65.5
+    - x: 20.5
+      y: 53
+      yaw: 90
+      z: -47.5
+    - x: 44.5
+      y: 53
+      yaw: 360
+      z: -18.5
+    - x: 66.5
+      y: 53
+      yaw: 90
+      z: -1.5
+    - x: 48.5
+      y: 53
+      yaw: 180
+      z: 20.5
+  SW-Fiery:
+    credits: PROP11TH
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      0:
+        x: -27
+        y: 96
+        yaw: 270
+        z: 40.5
+      1:
+        x: -26.5
+        y: 96
+        yaw: 270
+        z: 22.5
+      2:
+        x: -26
+        y: 96
+        yaw: 270
+        z: -22.5
+      3:
+        x: -25.5
+        y: 96
+        yaw: 270
+        z: -41
+      4:
+        x: -8
+        y: 96
+        yaw: 0
+        z: -57.5
+      5:
+        x: 10.5
+        y: 96
+        yaw: 0
+        z: -57
+      6:
+        x: 28.5
+        y: 96
+        yaw: 90
+        z: -39.5
+      7:
+        x: 28.5
+        y: 96
+        yaw: 90
+        z: -21.5
+      8:
+        x: 26.5
+        y: 96
+        yaw: 90
+        z: 23.5
+      9:
+        x: 27.5
+        y: 96
+        yaw: 90
+        z: 40.5
+      10:
+        x: 8.5
+        y: 96
+        yaw: 180
+        z: 59.5
+      11:
+        x: -8.5
+        y: 96
+        yaw: 180
+        z: 58.5
+  SW-Grizzly:
+    credits: Prop11th
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 56.5
+      y: 75
+      yaw: 90
+      z: 0.5
+    - x: 51.5
+      y: 75
+      yaw: 45
+      z: -28.5
+    - x: 29.5
+      y: 75
+      yaw: 45
+      z: -50.5
+    - x: 0.5
+      y: 75
+      yaw: 360
+      z: -55.5
+    - x: -28.5
+      y: 75
+      yaw: 315
+      z: -50.5
+    - x: -50.5
+      y: 75
+      yaw: 315
+      z: -28.5
+    - x: -55.5
+      y: 75
+      yaw: 270
+      z: 0.5
+    - x: -50.5
+      y: 75
+      yaw: 225
+      z: 29.5
+    - x: -28.5
+      y: 75
+      yaw: 225
+      z: 51.5
+    - x: 0.5
+      y: 75
+      yaw: 180
+      z: 56.5
+    - x: 29.5
+      y: 75
+      yaw: 135
+      z: 51.5
+    - x: 51.5
+      y: 75
+      yaw: 135
+      z: 29.5
+  SW-Icetown:
+    credits: TheLaoring
+    enabled: true
+    spawns:
+    - x: 0.5
+      y: 54
+      yaw: 360
+      z: -54.5
+    - x: -16.5
+      y: 54
+      yaw: 270
+      z: -40.5
+    - x: -40.5
+      y: 54
+      yaw: 360
+      z: -16.5
+    - x: -54.5
+      y: 54
+      yaw: 270
+      z: 0.5
+    - x: -40.5
+      y: 54
+      yaw: 180
+      z: 17.5
+    - x: -16.5
+      y: 54
+      yaw: 270
+      z: 41.5
+    - x: 0.5
+      y: 54
+      yaw: 180
+      z: 55.5
+    - x: 17.5
+      y: 54
+      yaw: 90
+      z: 41.5
+    - x: 41.5
+      y: 54
+      yaw: 180
+      z: 17.5
+    - x: 55.5
+      y: 54
+      yaw: 90
+      z: 0.5
+    - x: 41.5
+      y: 54
+      yaw: 0
+      z: -16.5
+    - x: 17.5
+      y: 54
+      yaw: 90
+      z: -40.5
+  SW-Jura:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 190.5
+      y: 56
+      yaw: 0
+      z: 106.5
+    - x: 212.5
+      y: 56
+      yaw: 90
+      z: 128.5
+    - x: 190.5
+      y: 56
+      yaw: 180
+      z: 150.5
+    - x: 150.5
+      y: 56
+      yaw: 90
+      z: 190.5
+    - x: 128.5
+      y: 56
+      yaw: 180
+      z: 212.5
+    - x: 106.5
+      y: 56
+      yaw: 270
+      z: 190.5
+    - x: 66.5
+      y: 56
+      yaw: 180
+      z: 150.5
+    - x: 44.5
+      y: 56
+      yaw: 270
+      z: 128.5
+    - x: 66.5
+      y: 56
+      yaw: 0
+      z: 106.5
+    - x: 106.5
+      y: 56
+      yaw: 270
+      z: 66.5
+    - x: 128.5
+      y: 56
+      yaw: 360
+      z: 44.5
+    - x: 150.5
+      y: 56
+      yaw: 90
+      z: 66.5
+  SW-Lighthouse:
+    credits: JangoMango
+    enabled: true
+    spawns:
+    - x: 5.5
+      y: 64
+      yaw: 180
+      z: 71.5
+    - x: 17.5
+      y: 64
+      yaw: 90
+      z: 49.5
+    - x: 59.5
+      y: 64
+      yaw: 180
+      z: 17.5
+    - x: 71.5
+      y: 64
+      yaw: 90
+      z: -4.5
+    - x: 49.5
+      y: 64
+      yaw: 360
+      z: -16.5
+    - x: 17.5
+      y: 64
+      yaw: 90
+      z: -58.5
+    - x: -4.5
+      y: 64
+      yaw: 360
+      z: -70.5
+    - x: -16.5
+      y: 64
+      yaw: 270
+      z: -48.5
+    - x: -58.5
+      y: 64
+      yaw: 0
+      z: -16.5
+    - x: -70.5
+      y: 64
+      yaw: 270
+      z: 5.5
+    - x: -48.5
+      y: 64
+      yaw: 180
+      z: 17.5
+    - x: -16.5
+      y: 64
+      yaw: 270
+      z: 59.5
+  SW-Mines:
+    credits: Prop11th
+    enabled: true
+    spawns:
+    - x: -51.5
+      y: 65
+      yaw: 270
+      z: 0.5
+    - x: -37.5
+      y: 65
+      yaw: 180
+      z: 14.5
+    - x: -13.5
+      y: 65
+      yaw: 270
+      z: 38.5
+    - x: 0.5
+      y: 65
+      yaw: 180
+      z: 52.5
+    - x: 14.5
+      y: 65
+      yaw: 90
+      z: 38.5
+    - x: 38.5
+      y: 65
+      yaw: 180
+      z: 14.5
+    - x: 52.5
+      y: 65
+      yaw: 90
+      z: 0.5
+    - x: 38.5
+      y: 65
+      yaw: 360
+      z: -13.5
+    - x: 14.5
+      y: 65
+      yaw: 90
+      z: -37.5
+    - x: 0.5
+      y: 65
+      yaw: 360
+      z: -51.5
+    - x: -13.5
+      y: 65
+      yaw: 270
+      z: -37.5
+    - x: -37.5
+      y: 65
+      yaw: 360
+      z: -13.5
+  SW-Morass:
+    credits: Bdoggy617
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      0:
+        x: -43.5
+        y: 71
+        yaw: 180
+        z: 19.5
+      1:
+        x: -62.5
+        y: 71
+        yaw: 270
+        z: 0.5
+      2:
+        x: -43.5
+        y: 71
+        yaw: 360
+        z: -18.5
+      3:
+        x: -18.5
+        y: 71
+        yaw: 270
+        z: -43.5
+      4:
+        x: 0.5
+        y: 71
+        yaw: 0
+        z: -62.5
+      5:
+        x: 19.5
+        y: 71
+        yaw: 90
+        z: -43.5
+      6:
+        x: 44.5
+        y: 71
+        yaw: 360
+        z: -18.5
+      7:
+        x: 63.5
+        y: 71
+        yaw: 90
+        z: 0.5
+      8:
+        x: 44.5
+        y: 71
+        yaw: 180
+        z: 19.5
+      9:
+        x: 19.5
+        y: 71
+        yaw: 90
+        z: 44.5
+      10:
+        x: 0.5
+        y: 71
+        yaw: 180
+        z: 63.5
+      11:
+        x: -18.5
+        y: 71
+        yaw: 270
+        z: 44.5
+  SW-Overcomplicated:
+    lucky-block-spawns: []
+    spawns:
+    - x: 14.5
+      y: 100
+      yaw: 45
+      z: 38.5
+    - x: 0.5
+      y: 100.5
+      yaw: 90
+      z: 52.5
+    - x: -13.5
+      y: 100
+      yaw: 360
+      z: 38.5
+    - x: -37.5
+      y: 100
+      yaw: 135
+      z: 14.5
+    - x: -51.5
+      y: 100
+      yaw: 135
+      z: 0.5
+    - x: -37.5
+      y: 100
+      yaw: 270
+      z: -13.5
+    - x: -13.5
+      y: 100
+      yaw: 270
+      z: -37.5
+    - x: 0.5
+      y: 100
+      yaw: 270
+      z: -51.5
+    - x: 14.5
+      y: 100
+      yaw: 315
+      z: -37.5
+    - x: 38.5
+      y: 100
+      yaw: 315
+      z: -13.5
+    - x: 52.5
+      y: 100
+      yaw: 360
+      z: 0.5
+    - x: 38.5
+      y: 100
+      yaw: 0
+      z: 14.5
+  SW-Petals:
+    credits: TheLaoring
+    enabled: true
+    spawns:
+    - x: 20.5
+      y: 66
+      yaw: 90
+      z: 48.5
+    - x: 48.5
+      y: 66
+      yaw: 180
+      z: 20.5
+    - x: 64.5
+      y: 66
+      yaw: 90
+      z: -0.5
+    - x: 48.5
+      y: 66
+      yaw: 0
+      z: -19.5
+    - x: 20.5
+      y: 66
+      yaw: 90
+      z: -47.5
+    - x: -0.5
+      y: 66
+      yaw: 360
+      z: -63.5
+    - x: -19.5
+      y: 66
+      yaw: 270
+      z: -47.5
+    - x: -47.5
+      y: 66
+      yaw: 0
+      z: -19.5
+    - x: -63.5
+      y: 66
+      yaw: 270
+      z: 1.5
+    - x: -47.5
+      y: 66
+      yaw: 180
+      z: 20.5
+    - x: -19.5
+      y: 66
+      yaw: 270
+      z: 48.5
+    - x: 1.5
+      y: 66
+      yaw: 180
+      z: 64.5
+  SW-Plants:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 40.5
+      y: 62
+      yaw: 90
+      z: 0.5
+    - x: 32.5
+      y: 62
+      yaw: 90
+      z: 18.5
+    - x: 18.5
+      y: 62
+      yaw: 180
+      z: 32.5
+    - x: 0.5
+      y: 62
+      yaw: 180
+      z: 40.5
+    - x: -17.5
+      y: 62
+      yaw: 180
+      z: 32.5
+    - x: -31.5
+      y: 62
+      yaw: 270
+      z: 18.5
+    - x: -39.5
+      y: 62
+      yaw: 270
+      z: 0.5
+    - x: -31.5
+      y: 62
+      yaw: 270
+      z: -17.5
+    - x: -17.5
+      y: 62
+      yaw: 360
+      z: -31.5
+    - x: 0.5
+      y: 62
+      yaw: 360
+      z: -39.5
+    - x: 18.5
+      y: 62
+      yaw: 0
+      z: -31.5
+    - x: 32.5
+      y: 62
+      yaw: 90
+      z: -17.5
+  SW-Pollution:
+    credits: JangoMango
+    enabled: true
+    spawns:
+    - x: -66.5
+      y: 59.5
+      yaw: 270
+      z: 0.5
+    - x: -47.5
+      y: 59.5
+      yaw: 180
+      z: 19.5
+    - x: -18.5
+      y: 59.5
+      yaw: 270
+      z: 48.5
+    - x: 0.5
+      y: 59.5
+      yaw: 180
+      z: 67.5
+    - x: 19.5
+      y: 59.5
+      yaw: 90
+      z: 48.5
+    - x: 48.5
+      y: 59.5
+      yaw: 180
+      z: 19.5
+    - x: 67.5
+      y: 59.5
+      yaw: 90
+      z: 0.5
+    - x: 48.5
+      y: 59.5
+      yaw: 0
+      z: -18.5
+    - x: 19.5
+      y: 59.5
+      yaw: 90
+      z: -47.5
+    - x: 0.5
+      y: 59.5
+      yaw: 0
+      z: -66.5
+    - x: -18.5
+      y: 59.5
+      yaw: 270
+      z: -47.5
+    - x: -47.5
+      y: 59.5
+      yaw: 0
+      z: -18.5
+  SW-Rails:
+    credits: Eyow189, Lesz
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: -40.5
+      y: 112
+      yaw: 270
+      z: 19.5
+    - x: -45.5
+      y: 112
+      yaw: 270
+      z: 0.5
+    - x: -40.5
+      y: 112
+      yaw: 270
+      z: -18.5
+    - x: -18
+      y: 112
+      yaw: 360
+      z: -40.5
+    - x: 0.5
+      y: 112
+      yaw: 0
+      z: -45.5
+    - x: 19.5
+      y: 112
+      yaw: 0
+      z: -41
+    - x: 42.5
+      y: 112
+      yaw: 90
+      z: -18.5
+    - x: 46.5
+      y: 112
+      yaw: 90
+      z: 0.5
+    - x: 41.5
+      y: 112
+      yaw: 90
+      z: 19.5
+    - x: 19.5
+      y: 112
+      yaw: 180
+      z: 41.5
+    - x: 0.5
+      y: 112
+      yaw: 180
+      z: 46.5
+    - x: -18.5
+      y: 112
+      yaw: 225
+      z: 41.5
+  SW-Reflection:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: -0.5
+      y: 71
+      yaw: 180
+      z: 73.5
+    - x: -35.5
+      y: 71
+      yaw: 225
+      z: 63.5
+    - x: -64
+      y: 71
+      yaw: 225
+      z: 35.5
+    - x: -72.5
+      y: 71
+      yaw: 270
+      z: 0.5
+    - x: -63
+      y: 71
+      yaw: 315
+      z: -34.5
+    - x: -35.5
+      y: 71
+      yaw: 315
+      z: -62
+    - x: -0.5
+      y: 71
+      yaw: 360
+      z: -71.5
+    - x: 34.5
+      y: 71
+      yaw: 45
+      z: -62.5
+    - x: 62.5
+      y: 71
+      yaw: 45
+      z: -34.5
+    - x: 71.5
+      y: 71
+      yaw: 90
+      z: 0.5
+    - x: 63.5
+      y: 71
+      yaw: 135
+      z: 35.5
+    - x: 33.5
+      y: 71
+      yaw: 135
+      z: 63.5
+  SW-Rosewood:
+    credits: JangoMango
+    enabled: true
+    spawns:
+    - x: 2.5
+      y: 63.5
+      yaw: 360
+      z: -67.5
+    - x: -16.5
+      y: 63.5
+      yaw: 270
+      z: -52.5
+    - x: -48.5
+      y: 63.5
+      yaw: 360
+      z: -16.5
+    - x: -67.5
+      y: 63.5
+      yaw: 270
+      z: -1.5
+    - x: -52.5
+      y: 63.5
+      yaw: 180
+      z: 17.5
+    - x: -16.5
+      y: 63.5
+      yaw: 270
+      z: 49.5
+    - x: -1.5
+      y: 63.5
+      yaw: 180
+      z: 68.5
+    - x: 17.5
+      y: 63.5
+      yaw: 90
+      z: 53.5
+    - x: 49.5
+      y: 63.5
+      yaw: 180
+      z: 17.5
+    - x: 68.5
+      y: 63.5
+      yaw: 90
+      z: 2.5
+    - x: 53.5
+      y: 63.5
+      yaw: 0
+      z: -16.5
+    - x: 17.5
+      y: 63.5
+      yaw: 90
+      z: -48.5
+  SW-Saga:
+    credits: Epicniklas10
+    enabled: true
+    spawns:
+    - x: -37.5
+      y: 129
+      yaw: 270
+      z: 21.5
+    - x: -20.5
+      y: 129
+      yaw: 180
+      z: 38.5
+    - x: 0.5
+      y: 129
+      yaw: 180
+      z: 47.5
+    - x: 21.5
+      y: 129
+      yaw: 180
+      z: 38.5
+    - x: 38.5
+      y: 129
+      yaw: 90
+      z: 21.5
+    - x: 48.5
+      y: 129
+      yaw: 90
+      z: 0.5
+    - x: 38.5
+      y: 129
+      yaw: 90
+      z: -20.5
+    - x: 21.5
+      y: 129
+      yaw: 0
+      z: -37.5
+    - x: 0.5
+      y: 129
+      yaw: 360
+      z: -46.5
+    - x: -20.5
+      y: 129
+      yaw: 0
+      z: -37.5
+    - x: -37.5
+      y: 129
+      yaw: 270
+      z: -20.5
+    - x: -46.5
+      y: 129
+      yaw: 270
+      z: 0.5
+  SW-Seafloor:
+    credits: Prop11th
+    enabled: true
+    spawns:
+    - x: -40.5
+      y: 63
+      yaw: 270
+      z: 0.5
+    - x: -42.5
+      y: 63
+      yaw: 270
+      z: 17.5
+    - x: -15.5
+      y: 63
+      yaw: 180
+      z: 43.5
+    - x: 0.5
+      y: 63
+      yaw: 180
+      z: 41.5
+    - x: 17.5
+      y: 63
+      yaw: 180
+      z: 43.5
+    - x: 43.5
+      y: 63
+      yaw: 90
+      z: 16.5
+    - x: 41.5
+      y: 63
+      yaw: 90
+      z: 0.5
+    - x: 43.5
+      y: 63
+      yaw: 90
+      z: -16.5
+    - x: 16.5
+      y: 63
+      yaw: 360
+      z: -42.5
+    - x: 0.5
+      y: 63
+      yaw: 360
+      z: -40.5
+    - x: -16.5
+      y: 63
+      yaw: 0
+      z: -42.5
+    - x: -42.5
+      y: 63
+      yaw: 270
+      z: -15.5
+  SW-Sentiment:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 19.5
+      y: 87
+      yaw: 90
+      z: 41.5
+    - x: -0.5
+      y: 87
+      yaw: 180
+      z: 61.5
+    - x: -18.5
+      y: 87
+      yaw: 270
+      z: 41.5
+    - x: -40.5
+      y: 87
+      yaw: 180
+      z: 19.5
+    - x: -60.5
+      y: 87
+      yaw: 270
+      z: -0.5
+    - x: -40.5
+      y: 87
+      yaw: 0
+      z: -18.5
+    - x: -18.5
+      y: 87
+      yaw: 270
+      z: -40.5
+    - x: 1.5
+      y: 87
+      yaw: 0
+      z: -60.5
+    - x: 19.5
+      y: 87
+      yaw: 90
+      z: -40.5
+    - x: 41.5
+      y: 87
+      yaw: 0
+      z: -18.5
+    - x: 61.5
+      y: 87
+      yaw: 90
+      z: 1.5
+    - x: 41.5
+      y: 87
+      yaw: 180
+      z: 19.5
+    tag: new
+  SW-Space:
+    credits: Squ1shy1039
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: -45.5
+      y: 77.5
+      yaw: 180
+      z: 24.5
+    - x: -69.5
+      y: 77.5
+      yaw: 270
+      z: 0.5
+    - x: -45.5
+      y: 77.5
+      yaw: 0
+      z: -24
+    - x: -23.5
+      y: 77.5
+      yaw: 270
+      z: -44.5
+    - x: 0.5
+      y: 77.5
+      yaw: 0
+      z: -68.5
+    - x: 24.5
+      y: 77.5
+      yaw: 90
+      z: -44.5
+    - x: 46.5
+      y: 77.5
+      yaw: 0
+      z: -23.5
+    - x: 70.5
+      y: 77.5
+      yaw: 90
+      z: 0.5
+    - x: 46.5
+      y: 77.5
+      yaw: 180
+      z: 24.5
+    - x: 24.5
+      y: 77.5
+      yaw: 90
+      z: 46.5
+    - x: 0.5
+      y: 77.5
+      yaw: 180
+      z: 70.5
+    - x: -23.5
+      y: 77.5
+      yaw: 270
+      z: 46.5
+  SW-Tangled:
+    credits: TheLaoring & Torikish
+    enabled: true
+    spawns:
+    - x: 69.5
+      y: 108
+      yaw: 90
+      z: -0.5
+    - x: 54.5
+      y: 108
+      yaw: 0
+      z: -20.5
+    - x: 20.5
+      y: 108
+      yaw: 90
+      z: -54.5
+    - x: -0.5
+      y: 108
+      yaw: 0
+      z: -68.5
+    - x: -20.5
+      y: 108
+      yaw: 270
+      z: -53.5
+    - x: -54.5
+      y: 108
+      yaw: 360
+      z: -19.5
+    - x: -68.5
+      y: 108
+      yaw: 270
+      z: 1.5
+    - x: -53.5
+      y: 108
+      yaw: 180
+      z: 21.5
+    - x: -20.5
+      y: 108
+      yaw: 270
+      z: 54.5
+    - x: 1.5
+      y: 108
+      yaw: 180
+      z: 69.5
+    - x: 21.5
+      y: 108
+      yaw: 90
+      z: 54.5
+    - x: 55.5
+      y: 108
+      yaw: 180
+      z: 20.5
+  SW-Town:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      0:
+        x: 0.5
+        y: 57
+        yaw: 180
+        z: -35.5
+      1:
+        x: 13.5
+        y: 57
+        yaw: 180
+        z: -32.5
+      2:
+        x: 33.5
+        y: 57
+        yaw: 270
+        z: -12.5
+      3:
+        x: 36.5
+        y: 57
+        yaw: 270
+        z: 0.5
+      4:
+        x: 33.5
+        y: 57
+        yaw: 270
+        z: 13.5
+      5:
+        x: 13.5
+        y: 57
+        yaw: 0
+        z: 32.5
+      6:
+        x: 0.5
+        y: 57
+        yaw: 360
+        z: 36.5
+      7:
+        x: -12.5
+        y: 57
+        yaw: 360
+        z: 33.5
+      8:
+        x: -32.5
+        y: 57
+        yaw: 90
+        z: 13.5
+      9:
+        x: -35.5
+        y: 57
+        yaw: 90
+        z: 0.5
+      10:
+        x: -32.5
+        y: 57
+        yaw: 90
+        z: -12.5
+      11:
+        x: -12.5
+        y: 57
+        yaw: 180
+        z: -32.5
+  SW-Toys:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 37.5
+      y: 61
+      yaw: 180
+      z: -13.5
+    - x: 55.5
+      y: 61
+      yaw: 270
+      z: -3.5
+    - x: 45.5
+      y: 61
+      yaw: 360
+      z: 14.5
+    - x: 14.5
+      y: 61
+      yaw: 90
+      z: 37.5
+    - x: 4.5
+      y: 61
+      yaw: 0
+      z: 55.5
+    - x: -13.5
+      y: 61
+      yaw: 90
+      z: 45.5
+    - x: -36.5
+      y: 61
+      yaw: 180
+      z: 14.5
+    - x: -54.5
+      y: 61
+      yaw: 90
+      z: 4.5
+    - x: -44.5
+      y: 61
+      yaw: 180
+      z: -13.5
+    - x: -13.5
+      y: 61
+      yaw: 270
+      z: -36.5
+    - x: -3.5
+      y: 61
+      yaw: 180
+      z: -54.5
+    - x: 14.5
+      y: 61
+      yaw: 0
+      z: -44.5
+  SW-Tropical:
+    credits: PROP11TH
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 25.5
+      y: 108
+      yaw: 180
+      z: 54.5
+    - x: 0.5
+      y: 108
+      yaw: 180
+      z: 53.5
+    - x: -24.5
+      y: 108
+      yaw: 180
+      z: 53.5
+    - x: -52.5
+      y: 108
+      yaw: 270
+      z: 25.5
+    - x: -52.5
+      y: 108
+      yaw: 270
+      z: 0.5
+    - x: -52.5
+      y: 108
+      yaw: 270
+      z: -24.5
+    - x: -24.5
+      y: 108
+      yaw: 0
+      z: -52
+    - x: 0.5
+      y: 108
+      yaw: 0
+      z: -52.5
+    - x: 25.5
+      y: 108
+      yaw: 0
+      z: -52.5
+    - x: 53.5
+      y: 108
+      yaw: 90
+      z: -24.5
+    - x: 53.5
+      y: 108
+      yaw: 90
+      z: 0.5
+    - x: 53.5
+      y: 108
+      yaw: 90
+      z: 25.5
+  SW-Vandals:
+    credits: Prop11th
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+    - x: 36.5
+      y: 65
+      yaw: 135
+      z: 32.5
+    - x: 42.5
+      y: 65
+      yaw: 90
+      z: 9.5
+    - x: 42.5
+      y: 65
+      yaw: 90
+      z: -14.5
+    - x: 32.5
+      y: 65
+      yaw: 45
+      z: -35.5
+    - x: 9.5
+      y: 65
+      yaw: 0
+      z: -41.5
+    - x: -14.5
+      y: 65
+      yaw: 360
+      z: -41.5
+    - x: -35.5
+      y: 65
+      yaw: 315
+      z: -31.5
+    - x: -41.5
+      y: 65
+      yaw: 270
+      z: -8.5
+    - x: -41.5
+      y: 65
+      yaw: 270
+      z: 15.5
+    - x: -31.5
+      y: 65
+      yaw: 225
+      z: 36.5
+    - x: -8.5
+      y: 65
+      yaw: 180
+      z: 42.5
+    - x: 15.5
+      y: 65
+      yaw: 180
+      z: 42.5
+  SW-Waterfall:
+    credits: eDqnny, b1u3s7
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      0:
+        x: 47.5
+        y: 73
+        yaw: 0
+        z: -26.5
+      1:
+        x: 69.5
+        y: 73
+        yaw: 0
+        z: -26.5
+      2:
+        x: 83.5
+        y: 73
+        yaw: 45
+        z: -10.5
+      3:
+        x: 83.5
+        y: 73
+        yaw: 270
+        z: 11.5
+      4:
+        x: 69.5
+        y: 73
+        yaw: 135
+        z: 27.5
+      5:
+        x: 47.5
+        y: 73
+        yaw: 315
+        z: 27.5
+      6:
+        x: -46.5
+        y: 73
+        yaw: 135
+        z: 27.5
+      7:
+        x: -68.5
+        y: 73
+        yaw: 180
+        z: 27.5
+      8:
+        x: -83
+        y: 73
+        yaw: 270
+        z: 11.5
+      9:
+        x: -82.5
+        y: 73
+        yaw: 270
+        z: -10.5
+      10:
+        x: -68.5
+        y: 73
+        yaw: 360
+        z: -26.5
+      11:
+        x: -46.5
+        y: 73
+        yaw: 45
+        z: -26.5
+  SWD-Buried:
+    credits: Prop11th
+    enabled: true
+    spawns:
+      4:
+        x: -30.5
+        y: 63
+        yaw: 270
+        z: 0.5
+      5:
+        x: 31.5
+        y: 63
+        yaw: 90
+        z: 0.5
+  SWD-Crouse:
+    credits: PROP11TH, Torikish
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      4:
+        x: 0.5
+        y: 85
+        yaw: 180
+        z: 22.5
+      5:
+        x: 0.5
+        y: 85
+        yaw: 360
+        z: -21.5
+  SWD-Forest:
+    enabled: true
+    spawns:
+      4:
+        x: 64.5
+        y: 74
+        yaw: 90
+        z: 1.5
+      5:
+        x: -63.5
+        y: 74
+        yaw: 270
+        z: 0.5
+  SWD-Ice:
+    enabled: true
+    spawns:
+      4:
+        x: -55
+        y: 76.5
+        yaw: 270
+        z: 0.5
+      5:
+        x: 55.5
+        y: 76.5
+        yaw: 90
+        z: 0.5
+  SWD-Narra:
+    credits: TheLaoring
+    enabled: true
+    spawns:
+      4:
+        x: 34.5
+        y: 64.5
+        yaw: 90
+        z: 0.5
+      5:
+        x: -33.5
+        y: 64.5
+        yaw: 270
+        z: 0.5
+  SWD-Red_Planet:
+    enabled: true
+    spawns:
+      4:
+        x: -57.5
+        y: 76
+        yaw: 270
+        z: 0.4907
+      5:
+        x: 58.5
+        y: 76
+        yaw: 90
+        z: 0.5
+  SWD-Scaffolds:
+    credits: Prop11th
+    enabled: true
+    spawns:
+      4:
+        x: -25.5
+        y: 67
+        yaw: 270
+        z: -2.5
+      5:
+        x: 26.5
+        y: 67
+        yaw: 90
+        z: 4.5
+  SWD-Shafts:
+    credits: Prop11th
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      4:
+        x: 0.5
+        y: 72
+        yaw: 360
+        z: -41.5
+      5:
+        x: 0.5
+        y: 72
+        yaw: 180
+        z: 42.5
+  SWD-Skybridge:
+    enabled: true
+    spawns:
+      4:
+        x: -47.5
+        y: 75
+        yaw: 270
+        z: 1.5
+      5:
+        x: 48.5
+        y: 75
+        yaw: 90
+        z: -0.5
+  SWD-Solar:
+    credits: Prop11th
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 63
+        yaw: 0
+        z: -31.5
+      5:
+        x: 0.5
+        y: 63
+        yaw: 180
+        z: 32.5
+  SWD-Sportly:
+    credits: PROP11TH
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      4:
+        x: 0.5
+        y: 89
+        yaw: 225
+        z: 41.5
+      5:
+        x: 0.5
+        y: 89
+        yaw: 360
+        z: -40.5
+  SWD-Stratosphere:
+    enabled: true
+    lucky-block-spawns: []
+    spawns:
+      4:
+        x: -26.5
+        y: 64
+        yaw: 315
+        z: -24.5
+      5:
+        x: 27.5
+        y: 64
+        yaw: 180
+        z: 25.5
+    tag: new

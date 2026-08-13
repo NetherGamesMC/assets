@@ -1,0 +1,472 @@
+arenas:
+  C-DLS-Frostbite:
+    credits: UnicornSkill383
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 60
+        yaw: 180
+        z: 23.5
+      5:
+        x: 0.5
+        y: 60
+        yaw: 0
+        z: -22.5
+    tag: winter
+  C-DLS-Resort:
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 60
+        yaw: 0
+        z: -22.5
+      5:
+        x: 0.5
+        y: 60
+        yaw: 180
+        z: 23.5
+    tag: winter
+  C-DLS-Winter_Palace:
+    enabled: true
+    spawns:
+      4:
+        x: -16
+        y: 60
+        yaw: 270
+        z: 0.5
+      5:
+        x: 17.5
+        y: 60
+        yaw: 90
+        z: 0.5
+    tag: winter
+  DLS-Ancient:
+    enabled: true
+    spawns:
+      4:
+        x: 20
+        y: 60
+        yaw: 90
+        z: 0.5
+      5:
+        x: -20
+        y: 60
+        yaw: 270
+        z: 0.5
+  DLS-Barrage:
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 59
+        yaw: 360
+        z: -47.5
+      5:
+        x: 0.5
+        y: 59
+        yaw: 180
+        z: 48.5
+  DLS-Beliefs:
+    credits: PROP11TH
+    enabled: true
+    spawns:
+      4:
+        x: -23.5
+        y: 60
+        yaw: 270
+        z: 0.5
+      5:
+        x: 24.5
+        y: 60
+        yaw: 90
+        z: 0.5
+  DLS-Blue_Castle:
+    enabled: true
+    spawns:
+      4:
+        x: 26
+        y: 60
+        yaw: 90
+        z: 0.5
+      5:
+        x: -26
+        y: 60
+        yaw: 270
+        z: 0.5
+  DLS-Bridge:
+    enabled: true
+    spawns:
+      4:
+        x: -30
+        y: 60
+        yaw: 270
+        z: 0
+      5:
+        x: 30
+        y: 60
+        yaw: 90
+        z: 0.5
+  DLS-Colossus:
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 75
+        yaw: 180
+        z: 54.5
+      5:
+        x: 0.5
+        y: 75
+        yaw: 0
+        z: -53.5
+  DLS-Cramped:
+    credits: PROP11TH
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 79
+        yaw: 0
+        z: -12.5
+      5:
+        x: 0.5
+        y: 79
+        yaw: 180
+        z: 13.5
+  DLS-Entryway:
+    enabled: true
+    spawns:
+      4:
+        x: -35.5
+        y: 62
+        yaw: 270
+        z: -0.5
+      5:
+        x: 36.5
+        y: 62
+        yaw: 90
+        z: -0.5
+  DLS-Familiar:
+    credits: PROP11TH
+    enabled: true
+    spawns:
+      4:
+        x: -21.5
+        y: 59
+        yaw: 270
+        z: 0.5
+      5:
+        x: 22.5
+        y: 59
+        yaw: 90
+        z: 0.5
+  DLS-Garden:
+    enabled: true
+    spawns:
+      4:
+        x: 21.5
+        y: 60
+        yaw: 90
+        z: 0.5
+      5:
+        x: -19.5
+        y: 60
+        yaw: 270
+        z: 0.5
+  DLS-Hallucinations:
+    credits: PROP11TH
+    enabled: true
+    spawns:
+      4:
+        x: -22.5
+        y: 79
+        yaw: 270
+        z: 0.5
+      5:
+        x: 24
+        y: 79
+        yaw: 90
+        z: 0.5
+  DLS-Hell:
+    enabled: true
+    spawns:
+      4:
+        x: -25
+        y: 60
+        yaw: 270
+        z: 0.5
+      5:
+        x: 25
+        y: 60
+        yaw: 90
+        z: 0.5
+  DLS-Houses:
+    enabled: true
+    spawns:
+      4:
+        x: 0
+        y: 60
+        yaw: 180
+        z: 16
+      5:
+        x: 0
+        y: 60
+        yaw: 0
+        z: -16
+  DLS-Mansion:
+    enabled: true
+    spawns:
+      4:
+        x: 28
+        y: 60
+        yaw: 135
+        z: 23.5
+      5:
+        x: -28.5
+        y: 60
+        yaw: 315
+        z: -24.5
+  DLS-Meadow:
+    enabled: true
+    spawns:
+      4:
+        x: -71.5
+        y: 60
+        yaw: 270
+        z: -0.5
+      5:
+        x: 71.5
+        y: 60
+        yaw: 90
+        z: 0.5
+  DLS-Mindgames:
+    credits: UnicornSkill383
+    enabled: true
+    spawns:
+      4:
+        x: 26.5
+        y: 60
+        yaw: 90
+        z: 1
+      5:
+        x: -24.5
+        y: 60
+        yaw: 270
+        z: 1
+  DLS-Nature:
+    enabled: true
+    spawns:
+      4:
+        x: -17.5
+        y: 60
+        yaw: 270
+        z: 0.5
+      5:
+        x: 15.5
+        y: 60
+        yaw: 90
+        z: 0.5
+  DLS-OctupisDen:
+    credits: PROP11TH
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 61
+        yaw: 180
+        z: 23.5
+      5:
+        x: 0.5
+        y: 61
+        yaw: 360
+        z: -22.5
+  DLS-Oriental:
+    credits: B2DCompany
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 80
+        yaw: 0
+        z: -18.5
+      5:
+        x: 0.5
+        y: 80
+        yaw: 180
+        z: 19.5
+  DLS-Paradise:
+    enabled: true
+    spawns:
+      4:
+        x: 34.5
+        y: 60
+        yaw: 90
+        z: 0.5
+      5:
+        x: -33.5
+        y: 60
+        yaw: 270
+        z: 0.5
+  DLS-Quarter:
+    credits: SrySkill
+    enabled: true
+    spawns:
+      4:
+        x: -20.5
+        y: 20
+        yaw: 270
+        z: 0.5
+      5:
+        x: 21.5
+        y: 20
+        yaw: 90
+        z: 0.5
+  DLS-Quasar:
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 61
+        yaw: 360
+        z: -32.5
+      5:
+        x: 0.5
+        y: 61
+        yaw: 180
+        z: 33.5
+  DLS-Resort:
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 60
+        yaw: 0
+        z: -22.5
+      5:
+        x: 0.5
+        y: 60
+        yaw: 180
+        z: 23.5
+  DLS-Spaceport:
+    enabled: true
+    spawns:
+      4:
+        x: 33.5
+        y: 60
+        yaw: 90
+        z: 0.5
+      5:
+        x: -32.5
+        y: 60
+        yaw: 270
+        z: 0.5
+  DLS-Sumo-Ring:
+    enabled: true
+    spawns:
+      4:
+        x: 6.5
+        y: 60
+        yaw: 90
+        z: 0.5
+      5:
+        x: -5.5
+        y: 60
+        yaw: 270
+        z: 0.5
+  DLS-Sumo-The_Pit:
+    enabled: true
+    spawns:
+      4:
+        x: -5.5
+        y: 60
+        yaw: 270
+        z: 0.5
+      5:
+        x: 6.5
+        y: 60
+        yaw: 90
+        z: 0.5
+  DLS-Temple:
+    enabled: true
+    spawns:
+      4:
+        x: 32.5
+        y: 60
+        yaw: 90
+        z: -0.5
+      5:
+        x: -31.5
+        y: 60
+        yaw: 270
+        z: 1.5
+  DLS-White:
+    enabled: true
+    spawns:
+      4:
+        x: 20
+        y: 60
+        yaw: 90
+        z: 0.5
+      5:
+        x: -20
+        y: 60
+        yaw: 270
+        z: 0.5
+  DLS-Yard:
+    enabled: true
+    spawns:
+      4:
+        x: 0.5
+        y: 59
+        yaw: 0
+        z: -35.5
+      5:
+        x: 0.5
+        y: 59
+        yaw: 180
+        z: 36.5
+  DLS-Yinyang:
+    enabled: true
+    spawns:
+      4:
+        x: 128.5
+        y: 46
+        yaw: 0
+        z: 104
+      5:
+        x: 128.5
+        y: 46
+        yaw: 180
+        z: 153.5
+  H-DLS-Mindgames:
+    credits: UnicornSkill383
+    enabled: false
+    spawns:
+      4:
+        x: 26.5
+        y: 60
+        yaw: 90
+        z: 1
+      5:
+        x: -24.5
+        y: 60
+        yaw: 270
+        z: 1
+    tag: halloween
+  H-DLS-Reef:
+    credits: Ben25536 miller, Chr7st
+    enabled: false
+    spawns:
+      4:
+        x: -31
+        y: 59
+        yaw: 270
+        z: 1
+      5:
+        x: -0.5
+        y: 59
+        yaw: 90
+        z: 0
+    tag: halloween

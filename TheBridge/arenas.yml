@@ -1,0 +1,739 @@
+arenas:
+  C-TB-Coast:
+    credits: Ben25536 miller, PROP11TH
+    enabled: false
+    tag: winter
+    teams:
+      4:
+        point:
+          x: 32
+          y: 56
+          z: 0
+        spawn:
+          x: 28.5
+          y: 75
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -32
+          y: 56
+          z: 0
+        spawn:
+          x: -27.5
+          y: 75
+          yaw: 270
+          z: 0.5
+  C-TB-Overgrown:
+    credits: astellars
+    enabled: false
+    tag: winter
+    teams:
+      4:
+        point:
+          x: 40
+          y: 52
+          z: 0
+        spawn:
+          x: 28.5
+          y: 69
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -40
+          y: 52
+          z: 0
+        spawn:
+          x: -27.5
+          y: 69
+          yaw: 270
+          z: 0.5
+  C-TB-Wooded:
+    credits: astellars
+    enabled: false
+    tag: winter
+    teams:
+      4:
+        point:
+          x: 37
+          y: 56
+          z: 0
+        spawn:
+          x: 30.5
+          y: 68
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -37
+          y: 56
+          z: 0
+        spawn:
+          x: -29.5
+          y: 68
+          yaw: 270
+          z: 0.5
+  H-TB-Castle:
+    credits: P1umbingRat
+    enabled: false
+    tag: halloween
+    teams:
+      4:
+        point:
+          x: -35
+          y: 55
+          z: 0
+        spawn:
+          x: -31.5
+          y: 72
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 35
+          y: 55
+          z: 0
+        spawn:
+          x: 32.5
+          y: 72
+          yaw: 90
+          z: 0.5
+  H-TB-Crossbones:
+    credits: TheLaoring
+    enabled: false
+    tag: halloween
+    teams:
+      4:
+        point:
+          x: 41
+          y: 54
+          z: 0
+        spawn:
+          x: 27.5
+          y: 66
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -41
+          y: 54
+          z: 0
+        spawn:
+          x: -26.5
+          y: 66
+          yaw: 270
+          z: 0.5
+  H-TB-Maison:
+    enabled: false
+    tag: halloween
+    teams:
+      4:
+        point:
+          x: 0
+          y: 58
+          z: 33
+        spawn:
+          x: 0.5
+          y: 70
+          yaw: 180
+          z: 21.5
+      5:
+        point:
+          x: 0
+          y: 58
+          z: -33
+        spawn:
+          x: 0.5
+          y: 70
+          yaw: 360
+          z: -20.5
+  S-TB-Castle:
+    credits: P1umbingRat
+    enabled: false
+    tag: summer
+    teams:
+      4:
+        point:
+          x: -35
+          y: 55
+          z: 0
+        spawn:
+          x: -31.5
+          y: 72
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 35
+          y: 55
+          z: 0
+        spawn:
+          x: 32.5
+          y: 72
+          yaw: 90
+          z: 0.5
+  TB-Acropolis:
+    credits: LargeKnome
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -39
+          y: 57
+          z: 4
+        spawn:
+          x: -26.5
+          y: 68
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 39
+          y: 57
+          z: -4
+        spawn:
+          x: 27.5
+          y: 68
+          yaw: 90
+          z: 0.5
+  TB-Aegean:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -37
+          y: 55
+          z: 0
+        spawn:
+          x: -33.5
+          y: 71
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 37
+          y: 55
+          z: 0
+        spawn:
+          x: 34.5
+          y: 71
+          yaw: 90
+          z: 0.5
+  TB-Autumn:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -43
+          y: 56
+          z: 0
+        spawn:
+          x: -34.5
+          y: 68
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 43
+          y: 56
+          z: 0
+        spawn:
+          x: 35.5
+          y: 68
+          yaw: 90
+          z: 0.5
+  TB-Balance:
+    credits: LargeKnome & P1umbingRat
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -46
+          y: 58
+          z: 0
+        spawn:
+          x: -26.5
+          y: 69.5
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 46
+          y: 58
+          z: 0
+        spawn:
+          x: 27.5
+          y: 69.5
+          yaw: 90
+          z: 0.5
+  TB-Blox:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 128
+          y: 21
+          z: 62
+        spawn:
+          x: 128.5
+          y: 37
+          yaw: 360
+          z: 73.5
+      5:
+        point:
+          x: 128
+          y: 21
+          z: 150
+        spawn:
+          x: 128.5
+          y: 37
+          yaw: 180
+          z: 139.5
+  TB-Castle:
+    credits: P1umbingRat
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -35
+          y: 55
+          z: 0
+        spawn:
+          x: -31.5
+          y: 72
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 35
+          y: 55
+          z: 0
+        spawn:
+          x: 32.5
+          y: 72
+          yaw: 90
+          z: 0.5
+  TB-Cityscape:
+    credits: Squ1shy1039
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 0
+          y: 55
+          z: -36
+        spawn:
+          x: 0.5
+          y: 66.5
+          yaw: 360
+          z: -26.5
+      5:
+        point:
+          x: 0
+          y: 55
+          z: 36
+        spawn:
+          x: 0.5
+          y: 66.5
+          yaw: 180
+          z: 27.5
+  TB-Crossbones:
+    credits: TheLaoring
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 41
+          y: 54
+          z: 0
+        spawn:
+          x: 27.5
+          y: 66
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -41
+          y: 54
+          z: 0
+        spawn:
+          x: -26.5
+          y: 66
+          yaw: 270
+          z: 0.5
+  TB-Desert:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 1
+          y: 63
+          z: -47
+        spawn:
+          x: 1.5
+          y: 78
+          yaw: 0
+          z: -46
+      5:
+        point:
+          x: 1
+          y: 63
+          z: 47
+        spawn:
+          x: 1.5
+          y: 78
+          yaw: 180
+          z: 46.5
+  TB-Eureka:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 0
+          y: 54
+          z: 38
+        spawn:
+          x: 0.5
+          y: 72
+          yaw: 180
+          z: 39.5
+      5:
+        point:
+          x: 0
+          y: 54
+          z: -38
+        spawn:
+          x: 0.5
+          y: 72
+          yaw: 360
+          z: -38.5
+  TB-Frostbite:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -30
+          y: 53
+          z: 0
+        spawn:
+          x: -27.5
+          y: 72
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 30
+          y: 53
+          z: 0
+        spawn:
+          x: 28.5
+          y: 72
+          yaw: 90
+          z: 0.5
+  TB-Kraken:
+    credits: TheLaoring
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -32
+          y: 49
+          z: 1
+        spawn:
+          x: -23.5
+          y: 70
+          yaw: 270
+          z: 1.5
+      5:
+        point:
+          x: 32
+          y: 49
+          z: 1
+        spawn:
+          x: 24.5
+          y: 70
+          yaw: 90
+          z: 1.5
+  TB-Maison:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 0
+          y: 58
+          z: 33
+        spawn:
+          x: 0.5
+          y: 70
+          yaw: 180
+          z: 21.5
+      5:
+        point:
+          x: 0
+          y: 58
+          z: -33
+        spawn:
+          x: 0.5
+          y: 70
+          yaw: 360
+          z: -20.5
+  TB-Natural:
+    credits: SrySkill
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -41
+          y: 36
+          z: 0
+        spawn:
+          x: -29.5
+          y: 46.5
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 41
+          y: 36
+          z: 0
+        spawn:
+          x: 30.5
+          y: 46.5
+          yaw: 90
+          z: 0.5
+  TB-Overgrown:
+    credits: astellars
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 40
+          y: 52
+          z: 0
+        spawn:
+          x: 28.5
+          y: 69
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -40
+          y: 52
+          z: 0
+        spawn:
+          x: -27.5
+          y: 69
+          yaw: 270
+          z: 0.5
+  TB-Pianotic:
+    credits: BeingHonestL & LargeKnome
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 10
+          y: 47
+          z: -21
+        spawn:
+          x: 10.5
+          y: 64
+          yaw: 180
+          z: -21.5
+      5:
+        point:
+          x: 10
+          y: 47
+          z: -85
+        spawn:
+          x: 10.5
+          y: 64
+          yaw: 0
+          z: -85.5
+  TB-Pirates:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 216
+          y: 46
+          z: 1336
+        spawn:
+          x: 216.5
+          y: 58
+          yaw: 270
+          z: 1344.5
+      5:
+        point:
+          x: 268
+          y: 46
+          z: 1350
+        spawn:
+          x: 268.5
+          y: 58
+          yaw: 90
+          z: 1343.5
+  TB-Skyscrapers:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -1
+          y: 56
+          z: -31
+        spawn:
+          x: 0.5
+          y: 66
+          yaw: 360
+          z: -23.5
+      5:
+        point:
+          x: 1
+          y: 56
+          z: 31
+        spawn:
+          x: 0.5
+          y: 66
+          yaw: 180
+          z: 24.5
+  TB-Sphinx:
+    credits: LargeKnome
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 39
+          y: 55
+          z: 0
+        spawn:
+          x: 28.5
+          y: 66
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -39
+          y: 55
+          z: 0
+        spawn:
+          x: -27.5
+          y: 66
+          yaw: 270
+          z: 0.5
+  TB-Tabernacle:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 56
+          y: 39
+          z: 129
+        spawn:
+          x: 56.5
+          y: 54
+          yaw: 270
+          z: 129.5
+      5:
+        point:
+          x: 126
+          y: 39
+          z: 129
+        spawn:
+          x: 126.5
+          y: 54
+          yaw: 90
+          z: 129.5
+  TB-Venables:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 128
+          y: 52
+          z: 177
+        spawn:
+          x: 128.5
+          y: 68
+          yaw: 180
+          z: 177.5
+      5:
+        point:
+          x: 128
+          y: 52
+          z: 79
+        spawn:
+          x: 128.5
+          y: 68
+          yaw: 0
+          z: 79.5
+  TB-Vignola:
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 51
+          y: 58
+          z: 0
+        spawn:
+          x: 38.5
+          y: 75
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -51
+          y: 58
+          z: 0
+        spawn:
+          x: -37.5
+          y: 75
+          yaw: 270
+          z: 0.5
+  TB-Wonderland:
+    credits: LargeKnome
+    enabled: true
+    teams:
+      4:
+        point:
+          x: -37
+          y: 55
+          z: 0
+        spawn:
+          x: -24.5
+          y: 64
+          yaw: 270
+          z: 0.5
+      5:
+        point:
+          x: 37
+          y: 55
+          z: 0
+        spawn:
+          x: 25.5
+          y: 64
+          yaw: 90
+          z: 0.5
+  TB-Wooded:
+    credits: astellars
+    enabled: true
+    teams:
+      4:
+        point:
+          x: 37
+          y: 56
+          z: 0
+        spawn:
+          x: 30.5
+          y: 68
+          yaw: 90
+          z: 0.5
+      5:
+        point:
+          x: -37
+          y: 56
+          z: 0
+        spawn:
+          x: -29.5
+          y: 68
+          yaw: 270
+          z: 0.5

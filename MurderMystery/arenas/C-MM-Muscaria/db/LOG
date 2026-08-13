@@ -1,0 +1,31 @@
+2023/12/08-20:35:17.158608 0x1dfbe5ec0 Recovering log #3
+2023/12/08-20:35:17.163614 0x1dfbe5ec0 Level-0 table #5: started
+2023/12/08-20:35:17.203111 0x1dfbe5ec0 Level-0 table #5: 206641 bytes OK
+2023/12/08-20:35:17.207178 0x1dfbe5ec0 Level-0 table #6: started
+2023/12/08-20:35:17.240062 0x1dfbe5ec0 Level-0 table #6: 129857 bytes OK
+2023/12/08-20:35:17.243729 0x1dfbe5ec0 Level-0 table #7: started
+2023/12/08-20:35:17.289082 0x1dfbe5ec0 Level-0 table #7: 278118 bytes OK
+2023/12/08-20:35:17.293287 0x1dfbe5ec0 Level-0 table #8: started
+2023/12/08-20:35:17.335094 0x1dfbe5ec0 Level-0 table #8: 246709 bytes OK
+2023/12/08-20:35:17.338409 0x1dfbe5ec0 Level-0 table #9: started
+2023/12/08-20:35:17.371167 0x1dfbe5ec0 Level-0 table #9: 133751 bytes OK
+2023/12/08-20:35:17.374531 0x1dfbe5ec0 Level-0 table #10: started
+2023/12/08-20:35:17.403070 0x1dfbe5ec0 Level-0 table #10: 75608 bytes OK
+2023/12/08-20:35:17.406273 0x1dfbe5ec0 Level-0 table #11: started
+2023/12/08-20:35:17.446187 0x1dfbe5ec0 Level-0 table #11: 222463 bytes OK
+2023/12/08-20:35:17.446687 0x1dfbe5ec0 Level-0 table #12: started
+2023/12/08-20:35:17.451954 0x1dfbe5ec0 Level-0 table #12: 8634 bytes OK
+2023/12/08-20:35:17.465340 0x1dfbe5ec0 Delete type=0 #3
+2023/12/08-20:35:17.465366 0x1dfbe5ec0 Delete type=3 #2
+2023/12/08-20:35:17.469329 0x16eadf000 Compacting 8@0 + 0@1 files
+2023/12/08-20:35:17.769399 0x16eadf000 Generated table #14@0: 36718 keys, 1293266 bytes
+2023/12/08-20:35:17.769477 0x16eadf000 Compacted 8@0 + 0@1 files => 1293266 bytes
+2023/12/08-20:35:17.777844 0x16eadf000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/12/08-20:35:17.777985 0x16eadf000 Delete type=2 #7
+2023/12/08-20:35:17.778001 0x16eadf000 Delete type=2 #12
+2023/12/08-20:35:17.778014 0x16eadf000 Delete type=2 #6
+2023/12/08-20:35:17.778045 0x16eadf000 Delete type=2 #10
+2023/12/08-20:35:17.778082 0x16eadf000 Delete type=2 #5
+2023/12/08-20:35:17.778094 0x16eadf000 Delete type=2 #11
+2023/12/08-20:35:17.778105 0x16eadf000 Delete type=2 #8
+2023/12/08-20:35:17.778117 0x16eadf000 Delete type=2 #9

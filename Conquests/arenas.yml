@@ -1,0 +1,941 @@
+arenas:
+  CQ-Antiques:
+    credits: UnicornSkill383
+    enabled: true
+    generators:
+      diamond:
+      - x: 79
+        y: 60
+        z: 0
+      - x: -79
+        y: 60
+        z: 0
+      emerald:
+      - x: -24
+        y: 59
+        z: -24
+      - x: -24
+        y: 59
+        z: 24
+      - x: 24
+        y: 59
+        z: 24
+      - x: 24
+        y: 59
+        z: -24
+    teams:
+      4:
+        flags:
+        - x: 12.5
+          y: 61
+          z: -79.5
+        - x: -11.5
+          y: 61
+          z: -79.5
+        generator:
+          x: 0
+          y: 60
+          z: -100
+        shop:
+          x: 11.5
+          y: 61
+          yaw: 90
+          z: -95.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 0
+          z: -92.5
+        upgrader:
+          x: -10.5
+          y: 61
+          yaw: 270
+          z: -95.5
+      5:
+        flags:
+        - x: -11.5
+          y: 61
+          z: 79.5
+        - x: 12.5
+          y: 61
+          z: 79.5
+        generator:
+          x: 0
+          y: 60
+          z: 99
+        shop:
+          x: -10.5
+          y: 61
+          yaw: 270
+          z: 95.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 180
+          z: 92.5
+        upgrader:
+          x: 11.5
+          y: 61
+          yaw: 90
+          z: 95.5
+  CQ-Dystopia:
+    credits: iPyro15
+    enabled: true
+    generators:
+      diamond:
+      - x: 0
+        y: 58
+        z: -81
+      - x: 0
+        y: 59
+        z: 81
+      emerald:
+      - x: 13
+        y: 53
+        z: 13
+      - x: -13
+        y: 53
+        z: -13
+      - x: 13
+        y: 53
+        z: -13
+      - x: -13
+        y: 53
+        z: 13
+    teams:
+      4:
+        flags:
+        - x: 96.5
+          y: 53
+          z: 15.5
+        - x: 96.5
+          y: 53
+          z: -16.5
+        generator:
+          x: 100
+          y: 52
+          z: -1
+        shop:
+          x: 92.5
+          y: 53
+          yaw: 225
+          z: 3.5
+        spawn:
+          x: 96.5
+          y: 53
+          yaw: 90
+          z: -0.5
+        upgrader:
+          x: 92.5
+          y: 53
+          yaw: 315
+          z: -4.5
+      5:
+        flags:
+        - x: -95.5
+          y: 53
+          z: -14.5
+        - x: -95.5
+          y: 53
+          z: 17.5
+        generator:
+          x: -100
+          y: 52
+          z: 1
+        shop:
+          x: -91.5
+          y: 53
+          yaw: 45
+          z: -2.5
+        spawn:
+          x: -95.5
+          y: 53
+          yaw: 270
+          z: 1.5
+        upgrader:
+          x: -91.5
+          y: 53
+          yaw: 135
+          z: 5.5
+  CQ-Fort:
+    credits: UnicornSkill383
+    enabled: true
+    generators:
+      diamond:
+      - x: 53
+        y: 60
+        z: 0
+      - x: -53
+        y: 60
+        z: 0
+      emerald:
+        0:
+          x: 16
+          y: 60
+          z: 16
+        1:
+          x: -16
+          y: 60
+          z: 16
+        2:
+          x: -16
+          y: 60
+          z: -16
+        3:
+          x: 16
+          y: 60
+          z: -16
+    teams:
+      4:
+        flags:
+        - x: 5.5
+          y: 61
+          z: -60.5
+        - x: -4.5
+          y: 61
+          z: -60.5
+        generator:
+          x: 0
+          y: 59
+          z: -80
+        shop:
+          x: 6.5
+          y: 60
+          yaw: 90
+          z: -74.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 360
+          z: -75.5
+        upgrader:
+          x: -5.5
+          y: 60
+          yaw: 270
+          z: -74.5
+      5:
+        flags:
+        - x: -4.5
+          y: 61
+          z: 61.5
+        - x: 5.5
+          y: 61
+          z: 61.5
+        generator:
+          x: 0
+          y: 59
+          z: 80
+        shop:
+          x: -5.5
+          y: 60
+          yaw: 270
+          z: 75.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 180
+          z: 76.5
+        upgrader:
+          x: 6.5
+          y: 60
+          yaw: 90
+          z: 75.5
+  CQ-London:
+    credits: JCwaft, Squishy
+    enabled: true
+    generators:
+      diamond:
+      - x: -1
+        y: 82
+        z: -76
+      - x: -1
+        y: 82
+        z: 58
+      emerald:
+      - x: -29
+        y: 86
+        z: 20
+      - x: -29
+        y: 84
+        z: -37
+      - x: 28
+        y: 86
+        z: -37
+      - x: 28
+        y: 84
+        z: 20
+    teams:
+      4:
+        flags:
+        - x: 87.5
+          y: 87
+          z: -13.5
+        - x: 90
+          y: 87
+          z: -1.5
+        generator:
+          x: 110
+          y: 86
+          z: -12
+        shop:
+          x: 107.5
+          y: 86
+          yaw: 0
+          z: -16.5
+        spawn:
+          x: 105.5
+          y: 87
+          yaw: 90
+          z: -11.5
+        upgrader:
+          x: 105.5
+          y: 86
+          yaw: 0
+          z: -16.5
+      5:
+        flags:
+        - x: -89.5
+          y: 87
+          z: -3.5
+        - x: -92.5
+          y: 87
+          z: -15.5
+        generator:
+          x: -112
+          y: 86
+          z: -5
+        shop:
+          x: -109.5
+          y: 86
+          yaw: 180
+          z: -0.5
+        spawn:
+          x: -107.5
+          y: 87
+          yaw: 270
+          z: -5.5
+        upgrader:
+          x: -107.5
+          y: 86
+          yaw: 180
+          z: -0.5
+  CQ-Markets:
+    enabled: true
+    generators:
+      diamond:
+      - x: 64
+        y: 63
+        z: 0
+      - x: -64
+        y: 63
+        z: 0
+      emerald:
+      - x: 0
+        y: 61
+        z: 11
+      - x: 0
+        y: 61
+        z: -11
+      - x: -17
+        y: 61
+        z: 0
+      - x: 17
+        y: 61
+        z: 0
+    teams:
+      4:
+        flags:
+        - x: 13.5
+          y: 62
+          z: 56.5
+        - x: -12.5
+          y: 62
+          z: 56.5
+        generator:
+          x: 0.5
+          y: 60.5
+          z: 74.5
+        shop:
+          x: -2.5
+          y: 61
+          yaw: 315
+          z: 68.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 180
+          z: 71.5
+        upgrader:
+          x: 3.5
+          y: 61
+          yaw: 45
+          z: 68.5
+      5:
+        flags:
+        - x: -12.5
+          y: 62
+          z: -55.5
+        - x: 13.5
+          y: 62
+          z: -55.5
+        generator:
+          x: 0.5
+          y: 60.5
+          z: -73.5
+        shop:
+          x: 3.5
+          y: 61
+          yaw: 135
+          z: -67.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 0
+          z: -70.5
+        upgrader:
+          x: -2.5
+          y: 61
+          yaw: 225
+          z: -67.5
+  CQ-Mythical:
+    enabled: true
+    generators:
+      diamond:
+      - x: -56
+        y: 55
+        z: 3
+      - x: 56
+        y: 55
+        z: -3
+      emerald:
+      - x: 10
+        y: 55
+        z: 26
+      - x: -18
+        y: 55
+        z: 21
+      - x: -10
+        y: 55
+        z: -26
+      - x: 18
+        y: 55
+        z: -21
+    teams:
+      4:
+        flags:
+        - x: 12.5
+          y: 55
+          z: 70.5
+        - x: -11.5
+          y: 55
+          z: 70.5
+        generator:
+          x: 0
+          y: 54
+          z: 75
+        shop:
+          x: -7.5
+          y: 55
+          yaw: 180
+          z: 77.5
+        spawn:
+          x: 0.5
+          y: 54
+          yaw: 180
+          z: 70
+        upgrader:
+          x: 8.5
+          y: 55
+          yaw: 180
+          z: 77.5
+      5:
+        flags:
+        - x: -11.5
+          y: 55
+          z: -69.5
+        - x: 12.5
+          y: 55
+          z: -69.5
+        generator:
+          x: 0
+          y: 54
+          z: -75
+        shop:
+          x: 8.5
+          y: 55
+          yaw: 360
+          z: -76.5
+        spawn:
+          x: 0.5
+          y: 54
+          yaw: 0
+          z: -69.5
+        upgrader:
+          x: -7.5
+          y: 55
+          yaw: 360
+          z: -76.5
+  CQ-Prey:
+    credits: UnicornSkill383
+    enabled: true
+    generators:
+      diamond:
+      - x: -73
+        y: 63
+        z: 4
+      - x: 73
+        y: 63
+        z: -4
+      emerald:
+      - x: 14
+        y: 59
+        z: -14
+      - x: -14
+        y: 59
+        z: -14
+      - x: -14
+        y: 59
+        z: 14
+      - x: 14
+        y: 59
+        z: 14
+    teams:
+      4:
+        flags:
+        - x: -9.5
+          y: 60
+          z: -76.5
+        - x: 10.5
+          y: 60
+          z: -76.5
+        generator:
+          x: -14
+          y: 59
+          z: -89
+        shop:
+          x: 0.5
+          y: 60
+          yaw: 315
+          z: -94.5
+        spawn:
+          x: -4.5
+          y: 59
+          yaw: 360
+          z: -87.5
+        upgrader:
+          x: 3.5
+          y: 60
+          yaw: 135
+          z: -88.5
+      5:
+        flags:
+          0:
+            x: -9.5
+            y: 60
+            z: 77.5
+          1:
+            x: 10.5
+            y: 60
+            z: 77.5
+        generator:
+          x: 15
+          y: 59
+          z: 88
+        shop:
+          x: 0.5
+          y: 60
+          yaw: 135
+          z: 95.5
+        spawn:
+          x: 5.5
+          y: 59
+          yaw: 180
+          z: 88.5
+        upgrader:
+          x: -2.5
+          y: 60
+          yaw: 315
+          z: 89.5
+  CQ-Sacred:
+    enabled: true
+    generators:
+      diamond:
+      - x: -53
+        y: 62
+        z: 0
+      - x: 53
+        y: 62
+        z: 0
+      emerald:
+      - x: 0
+        y: 67
+        z: -10
+      - x: 10
+        y: 67
+        z: 0
+      - x: 0
+        y: 67
+        z: 10
+      - x: -10
+        y: 67
+        z: 0
+    teams:
+      4:
+        flags:
+        - x: 12.5
+          y: 62
+          z: 51.5
+        - x: -11.5
+          y: 62
+          z: 51.5
+        generator:
+          x: 0
+          y: 60
+          z: 76
+        shop:
+          x: -4.5
+          y: 62
+          yaw: 270
+          z: 68.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 180
+          z: 72.5
+        upgrader:
+          x: 5.5
+          y: 62
+          yaw: 90
+          z: 68.5
+      5:
+        flags:
+        - x: -11.5
+          y: 62
+          z: -50.5
+        - x: 12.5
+          y: 62
+          z: -50.5
+        generator:
+          x: 0
+          y: 60
+          z: -76
+        shop:
+          x: 5.5
+          y: 62
+          yaw: 90
+          z: -67.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 360
+          z: -71.5
+        upgrader:
+          x: -4.5
+          y: 62
+          yaw: 270
+          z: -67.5
+  CQ-Snapdragons:
+    credits: UnicornSkill383
+    enabled: true
+    generators:
+      diamond:
+      - x: 74
+        y: 61
+        z: 0
+      - x: -74
+        y: 61
+        z: 0
+      emerald:
+      - x: -28
+        y: 61
+        z: -28
+      - x: 28
+        y: 61
+        z: 28
+      - x: 28
+        y: 61
+        z: -28
+      - x: -28
+        y: 61
+        z: 28
+    teams:
+      4:
+        flags:
+        - x: 17.5
+          y: 61
+          z: 76.5
+        - x: -14.5
+          y: 61
+          z: 76.5
+        generator:
+          x: 0
+          y: 59
+          z: 94
+        shop:
+          x: -9.5
+          y: 60
+          yaw: 90
+          z: 86.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 360
+          z: 86.5
+        upgrader:
+          x: 10.5
+          y: 60
+          yaw: 270
+          z: 86.5
+      5:
+        flags:
+        - x: -14.5
+          y: 61
+          z: -75.5
+        - x: 17.5
+          y: 61
+          z: -75.5
+        generator:
+          x: 0
+          y: 59
+          z: -93
+        shop:
+          x: 10.5
+          y: 60
+          yaw: 270
+          z: -85.5
+        spawn:
+          x: 0.5
+          y: 61
+          yaw: 180
+          z: -85.5
+        upgrader:
+          x: -9.5
+          y: 60
+          yaw: 90
+          z: -85.5
+  CQ-Warfare:
+    credits: iPyro15
+    enabled: true
+    generators:
+      diamond:
+      - x: 4
+        y: 64
+        z: 65
+      - x: -4
+        y: 64
+        z: -65
+      emerald:
+      - x: 11
+        y: 60
+        z: 13
+      - x: -11
+        y: 60
+        z: -13
+    teams:
+      4:
+        flags:
+        - x: 59.5
+          y: 64
+          z: 14.5
+        - x: 59.5
+          y: 63
+          z: -13.5
+        generator:
+          x: 91
+          y: 62
+          z: 0
+        shop:
+          x: 89.5
+          y: 64
+          yaw: 180
+          z: 7.5
+        spawn:
+          x: 86.5
+          y: 63
+          yaw: 90
+          z: 0.5
+        upgrader:
+          x: 85.5
+          y: 64
+          yaw: 180
+          z: 7.5
+      5:
+        flags:
+        - x: -58.5
+          y: 64
+          z: -13.5
+        - x: -58.5
+          y: 63
+          z: 14.5
+        generator:
+          x: -91
+          y: 62
+          z: 0
+        shop:
+          x: -88.5
+          y: 64
+          yaw: 360
+          z: -6.5
+        spawn:
+          x: -85.5
+          y: 63
+          yaw: 270
+          z: 0.5
+        upgrader:
+          x: -84.5
+          y: 64
+          yaw: 0
+          z: -6.5
+  CQ-Woodlands:
+    credits: Squ1shy1039
+    enabled: true
+    generators:
+      diamond:
+      - x: -56
+        y: 54
+        z: 0
+      - x: 56
+        y: 54
+        z: 0
+      emerald:
+      - x: -14
+        y: 54
+        z: -16
+      - x: 11
+        y: 54
+        z: -21
+      - x: 15
+        y: 54
+        z: 15
+      - x: -17
+        y: 54
+        z: 16
+    teams:
+      4:
+        flags:
+        - x: -15.5
+          y: 54
+          z: 63.5
+        - x: 16.5
+          y: 54
+          z: 63.5
+        generator:
+          x: 0
+          y: 53
+          z: 83
+        shop:
+          x: -6.5
+          y: 54
+          yaw: 270
+          z: 79.5
+        spawn:
+          x: 0.5
+          y: 54
+          yaw: 180
+          z: 75.5
+        upgrader:
+          x: 7.5
+          y: 54
+          yaw: 90
+          z: 79.5
+      5:
+        flags:
+        - x: 16.5
+          y: 54
+          z: -62.5
+        - x: -15.5
+          y: 54
+          z: -62.5
+        generator:
+          x: 0
+          y: 53
+          z: -83
+        shop:
+          x: 7.5
+          y: 54
+          yaw: 90
+          z: -78.5
+        spawn:
+          x: 0.5
+          y: 54
+          yaw: 360
+          z: -74.5
+        upgrader:
+          x: -6.5
+          y: 54
+          yaw: 270
+          z: -78.5
+  H-CQ-Dystopia:
+    credits: iPyro15
+    enabled: false
+    generators:
+      diamond:
+      - x: 0
+        y: 58
+        z: -81
+      - x: 0
+        y: 59
+        z: 81
+      emerald:
+      - x: 13
+        y: 53
+        z: 13
+      - x: -13
+        y: 53
+        z: -13
+    tag: halloween
+    teams:
+      4:
+        flags:
+        - x: 96.5
+          y: 53
+          z: 15.5
+        - x: 96.5
+          y: 53
+          z: -16.5
+        generator:
+          x: 100
+          y: 52
+          z: -1
+        shop:
+          x: 92.5
+          y: 53
+          yaw: 225
+          z: 3.5
+        spawn:
+          x: 96.5
+          y: 53
+          yaw: 90
+          z: -0.5
+        upgrader:
+          x: 92.5
+          y: 53
+          yaw: 315
+          z: -4.5
+      5:
+        flags:
+        - x: -95.5
+          y: 53
+          z: -14.5
+        - x: -95.5
+          y: 53
+          z: 17.5
+        generator:
+          x: -100
+          y: 52
+          z: 1
+        shop:
+          x: -91.5
+          y: 53
+          yaw: 45
+          z: -2.5
+        spawn:
+          x: -95.5
+          y: 53
+          yaw: 270
+          z: 1.5
+        upgrader:
+          x: -91.5
+          y: 53
+          yaw: 135
+          z: 5.5

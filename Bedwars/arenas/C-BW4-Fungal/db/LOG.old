@@ -1,0 +1,25 @@
+2023/12/08-19:41:50.576078 0x1dfbe5ec0 Recovering log #3
+2023/12/08-19:41:50.582193 0x1dfbe5ec0 Level-0 table #5: started
+2023/12/08-19:41:50.619538 0x1dfbe5ec0 Level-0 table #5: 109101 bytes OK
+2023/12/08-19:41:50.623770 0x1dfbe5ec0 Level-0 table #6: started
+2023/12/08-19:41:50.655471 0x1dfbe5ec0 Level-0 table #6: 69226 bytes OK
+2023/12/08-19:41:50.659269 0x1dfbe5ec0 Level-0 table #7: started
+2023/12/08-19:41:50.691400 0x1dfbe5ec0 Level-0 table #7: 73389 bytes OK
+2023/12/08-19:41:50.695792 0x1dfbe5ec0 Level-0 table #8: started
+2023/12/08-19:41:50.728447 0x1dfbe5ec0 Level-0 table #8: 81113 bytes OK
+2023/12/08-19:41:50.732273 0x1dfbe5ec0 Level-0 table #9: started
+2023/12/08-19:41:50.772336 0x1dfbe5ec0 Level-0 table #9: 74939 bytes OK
+2023/12/08-19:41:50.776509 0x1dfbe5ec0 Level-0 table #10: started
+2023/12/08-19:41:50.809355 0x1dfbe5ec0 Level-0 table #10: 76402 bytes OK
+2023/12/08-19:41:50.812953 0x1dfbe5ec0 Level-0 table #11: started
+2023/12/08-19:41:50.845425 0x1dfbe5ec0 Level-0 table #11: 72984 bytes OK
+2023/12/08-19:41:50.849304 0x1dfbe5ec0 Level-0 table #12: started
+2023/12/08-19:41:50.885376 0x1dfbe5ec0 Level-0 table #12: 65049 bytes OK
+2023/12/08-19:41:50.888897 0x1dfbe5ec0 Level-0 table #13: started
+2023/12/08-19:41:50.918374 0x1dfbe5ec0 Level-0 table #13: 65043 bytes OK
+2023/12/08-19:41:50.919339 0x1dfbe5ec0 Level-0 table #14: started
+2023/12/08-19:41:50.927246 0x1dfbe5ec0 Level-0 table #14: 12801 bytes OK
+2023/12/08-19:41:50.941071 0x1dfbe5ec0 Delete type=0 #3
+2023/12/08-19:41:50.941105 0x1dfbe5ec0 Delete type=3 #2
+2023/12/08-19:41:50.945209 0x16e267000 Compacting 10@0 + 0@1 files
+2023/12/08-19:41:50.949999 0x16e267000 compacted to: files[ 10 0 0 0 0 0 0 ]

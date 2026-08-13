@@ -1,0 +1,19 @@
+---
+arenas:
+  MD-Meltdown:
+    spawn:
+      x: 0
+      "y": 100
+      z: 0
+      yaw: 0
+    radius: 40
+    floors:
+      min: 67
+      max: 99
+      all:
+      - 99
+      - 91
+      - 83
+      - 75
+      - 67
+...
